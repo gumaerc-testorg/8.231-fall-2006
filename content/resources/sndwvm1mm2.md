@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: aac1eb18-090c-557f-3a53-d6186e6c9b51
 resourcetype: Document
 title: sndwvm1mm2.pdf
 uid: 5b9f334b-d874-5741-f003-567f40d49ae8
