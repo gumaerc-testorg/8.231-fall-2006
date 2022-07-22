@@ -5,6 +5,7 @@ file: /courses/8-231-physics-of-solids-i-fall-2006/5b9f334bd8745741f003567f40d49
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sndwvm1mm2.pdf
 uid: 5b9f334b-d874-5741-f003-567f40d49ae8
 ---
 Reading on sound waves in 1D lattice.
-

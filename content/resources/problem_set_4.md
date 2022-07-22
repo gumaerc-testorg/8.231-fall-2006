@@ -5,6 +5,7 @@ file: /courses/8-231-physics-of-solids-i-fall-2006/31b588aec9e8c7f7ec14144a3c197
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: problem_set_4.pdf
 uid: 31b588ae-c9e8-c7f7-ec14-144a3c19783d
 ---
 Problem set.
-
