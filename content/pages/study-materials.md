@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides study materials for the course, including exam
+  practice problems, and numerical solutions.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 9e6b2d36-a2d3-a8da-5894-50eb507a3ba1
 ---

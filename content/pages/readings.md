@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the course texts and the list of
+  readings associated with each problem set.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: aac1eb18-090c-557f-3a53-d6186e6c9b51
 ---
@@ -95,7 +100,7 @@ Kittel, chapter 3
 
 Kittel, chapter 4
 
-Sound waves in square lattice ([PDF]({{< baseurl >}}/resources/sndwv))
+Sound waves in square lattice ({{% resource_link b723e3fc-a0b5-3557-40a8-1009badadd4d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -110,7 +115,7 @@ Sound waves in square lattice ([PDF]({{< baseurl >}}/resources/sndwv))
 
 Kittel, chapters 4 and 5
 
-Sound waves in 1D lattice ([PDF]({{< baseurl >}}/resources/sndwvm1mm2))
+Sound waves in 1D lattice ({{% resource_link 5b9f334b-d874-5741-f003-567f40d49ae8 "PDF" %}})
 
 
 {{< tdclose >}}
