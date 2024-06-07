@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/8-231-physics-of-solids-i-fall-2006/8dd26b2a1eb9b85868460be62f5d462c_problem_set_7.pdf
+file_size: 97296
 file_type: application/pdf
 learning_resource_types:
 - Assignments
