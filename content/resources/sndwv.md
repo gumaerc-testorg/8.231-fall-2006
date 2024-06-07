@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading supplement on sound waves in square lattice.
 file: /courses/8-231-physics-of-solids-i-fall-2006/b723e3fca0b5355740a81009badadd4d_sndwv.pdf
+file_size: 128881
 file_type: application/pdf
 learning_resource_types:
 - Readings
