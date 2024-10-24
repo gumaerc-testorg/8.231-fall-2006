@@ -43,7 +43,7 @@ Kittel, chapter 1
 
 [CsCl](http://departments.kings.edu/chemlab/animation/cscl.html)
 
-[Diamond](http://phycomp.technion.ac.il/~nika/diamond_structure.html)
+[Diamond](https://en.wikipedia.org/wiki/Diamond_cubic)
 
 [La2CuO4 (High-Tc superconductor)](https://www.researchgate.net/publication/223117789_On_High_Tc_Superconductivity_in_La2CuO4_Type_Compounds)
 
@@ -85,7 +85,7 @@ Kittel chapter 6
 
 Kittel, chapters 6 and 7
 
-[3D Brillouin zones](http://phycomp.technion.ac.il/~nika/brillouin_zones.html)
+[3D Brillouin zones](https://www.doitpoms.ac.uk/tlplib/brillouin_zones/3d_examples.php)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
