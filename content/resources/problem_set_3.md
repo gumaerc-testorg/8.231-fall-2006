@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /ol-ocw-studio-app/courses/8-231-physics-of-solids-i-fall-2006/115bee1b2b13161cb2200382a4b74ecd_problem_set_3.pdf
+file: /courses/8-231-physics-of-solids-i-fall-2006/115bee1b2b13161cb2200382a4b74ecd_problem_set_3.pdf
 file_size: 68408
 file_type: application/pdf
 learning_resource_types:
