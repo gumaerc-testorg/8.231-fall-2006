@@ -33,19 +33,19 @@ READINGS
 
 Kittel, chapter 1
 
-[Bravais lattice on Wikipedia](http://en.wikipedia.org/wiki/Bravais_lattice)
+{{% resource_link "10f3e16f-3690-4cf2-bf7c-e7d4d87b5e64" "Bravais lattice on Wikipedia" %}}
 
-[Bravais lattice on Steven Dutch's Web site](https://stevedutch.net/symmetry/bravais.htm)
+{{% resource_link "e5bbb6f1-01c9-40d4-be21-be3033b76d9e" "Bravais lattice on Steven Dutch's Web site" %}}
 
-[Many lattice structures](http://departments.kings.edu/chemlab/animation/)
+{{% resource_link "58145a17-13e9-470d-a92d-7f32353b625f" "Many lattice structures" %}}
 
-[NaCl](http://departments.kings.edu/chemlab/animation/nacl.html)
+{{% resource_link "7362e99c-e9b7-4cea-9d3d-876e761a1ffe" "NaCl" %}}
 
-[CsCl](http://departments.kings.edu/chemlab/animation/cscl.html)
+{{% resource_link "7a236982-94dd-4c27-9b85-2f295563eed8" "CsCl" %}}
 
-[Diamond](https://en.wikipedia.org/wiki/Diamond_cubic)
+{{% resource_link "fb20b5bf-3098-4968-ade9-43a138317af2" "Diamond" %}}
 
-[La2CuO4 (High-Tc superconductor)](https://www.researchgate.net/publication/223117789_On_High_Tc_Superconductivity_in_La2CuO4_Type_Compounds)
+{{% resource_link "2339bedb-7112-4399-8791-647621f6f899" "La2CuO4 (High-Tc superconductor)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -53,7 +53,7 @@ Kittel, chapter 1
 
 Kittel, chapter 2
 
-[Powder diffraction image](http://www.esrf.eu/computing/scientific/FIT2D/FIT2D_INTRO/img15.gif)
+{{% resource_link "57912d24-8d62-40af-9b8a-d5b017563ee8" "Powder diffraction image" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -85,7 +85,7 @@ Kittel chapter 6
 
 Kittel, chapters 6 and 7
 
-[3D Brillouin zones](https://www.doitpoms.ac.uk/tlplib/brillouin_zones/3d_examples.php)
+{{% resource_link "94a3a3ad-4ee4-4cab-86c7-bffcc7df32e5" "3D Brillouin zones" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
